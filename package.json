@@ -2,7 +2,7 @@
   "name": "cozy-i18n-helper",
   "version": "0.0.1",
   "description": "A helper to handle i18n in your cozy application",
-  "main": "src/server.coffee",
+  "main": "lib/server.js",
   "scripts": {
     "test": "cake tests",
     "prepublish": "cake build"
