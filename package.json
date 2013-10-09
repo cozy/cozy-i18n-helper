@@ -16,10 +16,12 @@
   },
   "license": "BSD",
   "readmeFilename": "README.md",
+  "dependencies": {
+    "jugglingdb": "0.2.0-34",
+    "jugglingdb-cozy-adapter": "0.3.12"
+  },
   "devDependencies": {
     "express": "~3.2.5",
-    "jugglingdb": "",
-    "jugglingdb-cozy-adapter": "",
     "request-json": "~0.3.6",
     "should": "~1.2.2",
     "chai": "~1.7.1"
